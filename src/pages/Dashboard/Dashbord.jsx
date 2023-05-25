@@ -1,5 +1,5 @@
 import React from "react";
-import Illustration from "../../assets/illustration.svg";
+import Illustration from "./illustration.svg";
 import Titlebar from "../../Shared/Titlebar";
 
 const Dashbord = () => {
