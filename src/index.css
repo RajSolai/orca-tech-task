@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Abril Fatface", cursive;
+  font-family: "Poppins", sans-serif;
+}
